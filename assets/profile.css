@@ -1,0 +1,14 @@
+.profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: blueviolet;
+    border-top: 3px solid red;
+    border-right: 3px solid rgb(27, 27, 73);
+    border-bottom: 3px solid green;
+    border-left: 3px solid orange;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
